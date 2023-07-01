@@ -1,7 +1,7 @@
 {
     "theme_color": "#122A57",
     "background_color": "#ffffff",
-    "display": "fullscreen",
+    "display": "standalone",
     "scope": "/",
     "start_url": "/",
     "short_name": "Flx Tur",
